@@ -10,4 +10,4 @@ let random = Math.random()+ 1;
 
 let mod = num3/num4
 
-let max = Math.max(1, 4, 6, 20);
+let max = Math.max(1, 2, 3, 4, 5, 20);
