@@ -6,7 +6,7 @@ let num3 = '';
 
 let multiply = num1 * num2;
 
-let random = Math.random()+1;
+let random = Math.random()+ 1;
 
 let mod = num3/num4
 
